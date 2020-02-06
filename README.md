@@ -1,4 +1,4 @@
-# python-api-challenge
+# Python API Challenge
 
 The goal of this challenge was to call weather data from the Open Weather API in Python and then plot the data accordingly. The data included latitude and longitude coordinates of various cities around the world, as well as a few other descriptive characteristics of those cities. Specifically, I was looking at the relationship between Temperature, Humidity, Cloudiness and Wind Speed in relation to Latitude. 
 
